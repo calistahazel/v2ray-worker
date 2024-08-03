@@ -5,7 +5,7 @@
 
 ## How to use
 
-To be completed...
+To be completed....
 
 ## Deploy 
  1. Fork this Repo and enable Github Action
