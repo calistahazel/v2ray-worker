@@ -19,7 +19,7 @@ jobs:
         cache: "npm"
 
     - name: Install modules
-      run: npm i wrangler@legacy
+      run: npm i wrangler@2.2.4
 
     - name: Build
       run: npx wrangler build
